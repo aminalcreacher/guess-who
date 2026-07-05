@@ -1,0 +1,35 @@
+body {
+  width: 100dvw;
+  height: 100dvh;
+  background-color: #666;
+}
+
+#board {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 5px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 0.6;
+  border-radius: 4px;
+  border: 1px black solid;
+}
+
+.card img {
+  width: 100px;
+  object-fit: cover;
+  box-shadow: inset 10px;
+}
+
+.card h1 {
+  width: 100px;
+  background-color: #333;
+  color: #ddd;
+}
+
+.card[data-hidden="true"] {
+  filter: brightness(40%);
+}
