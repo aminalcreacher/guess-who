@@ -1,16 +1,17 @@
-const CARD_DATA_URL = "";
+const CARD_DATA_URL = "./hollow-knight.json";
 
 const board = document.getElementById("board");
 const cardTemplate = document.getElementById("card-template");
 
 const makeCard = ({ name, src }) => {
-  const card = document.importNode(cardTemplate.contentEditable, true);
+  const cloned = document.importNode(cardTemplate.content, true);
+  const card = cloned.querySelector(".card");
 
   card.querySelector(".name").textContent = name;
   card.querySelector(".image").src = src;
 
   card.addEventListener("click", () => {
-    card.dataset.hidden = !card.dataset.hidden;
+    card.classList.toggle("hidden");
   });
 
   board.appendChild(card);

@@ -1,45 +1,202 @@
 [
-  { "name": "The Knight" },
-  { "name": "Elder Bug" },
-  { "name": "Sly" },
-  { "name": "Cornifer" },
-  { "name": "Zote" },
-  { "name": "Dung Defender" },
-  { "name": "The Hollow Knight" },
-  { "name": "Hornet" },
-  { "name": "Herrah" },
-  { "name": "Monomon" },
-  { "name": "Lurien" },
-  { "name": "The Pale King" },
-  { "name": "The White Lady (Tree Girl)" },
-  { "name": "Quirrel" },
-  { "name": "Grimm" },
-  { "name": "Old Stag" },
-  { "name": "Lemm" },
-  { "name": "Mister Mushroom" },
-  { "name": "Lace" },
-  { "name": "Green Prince" },
-  { "name": "Garmond (& Zaza)" },
-  { "name": "Shakra" },
-  { "name": "Pilby" },
-  { "name": "Savage Beastfly" },
-  { "name": "Karmelita" },
-  { "name": "Seth" },
-  { "name": "Crust King Khann" },
-  { "name": "Caretaker" },
-  { "name": "Sherma" },
-  { "name": "Widow" },
-  { "name": "Phantom" },
-  { "name": "Grand Mother Silk" },
-  { "name": "Fleamaster Mooshka" },
-  { "name": "Kratt" },
-  { "name": "Vog" },
-  { "name": "Groal the Great" },
-  { "name": "Second Sentinel" },
-  { "name": "Forge Daughter" },
-  { "name": "Twelfth Architect" },
-  { "name": "First Sinner" },
-  { "name": "Grindle" },
-  { "name": "Scrounge" },
-  { "name": "Plinney" }
+  {
+    "name": "The Knight",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/4/47/The_Knight_Idle.png"
+  },
+  {
+    "name": "Elder Bug",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/5/54/Elderbug-2.png"
+  },
+  {
+    "name": "Sly",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/f/f9/Sly.png"
+  },
+  {
+    "name": "Cornifer",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/f/ff/Cornifer.png/300px-Cornifer.png"
+  },
+  {
+    "name": "Zote",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/5/5a/B_Zote.png"
+  },
+  {
+    "name": "Salubra",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/ea/Salubra.png/299px-Salubra.png"
+  },
+  {
+    "name": "Bretta",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/9/96/Bretta.png"
+  },
+  {
+    "name": "Seer",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/e/ee/Seer.png"
+  },
+  {
+    "name": "Dung Defender",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/0/0e/B_Dung_Defender.png/300px-B_Dung_Defender.png"
+  },
+  {
+    "name": "The Hollow Knight",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/1/12/B_Hollow_Knight.png/300px-B_Hollow_Knight.png"
+  },
+  {
+    "name": "Hornet",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/1/16/Hornet_Idle.png"
+  },
+  {
+    "name": "Herrah",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/b/bc/B_Herrah.png"
+  },
+  {
+    "name": "Monomon",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/e9/B_Monomon.png/202px-B_Monomon.png"
+  },
+  {
+    "name": "Lurien",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/c/ce/B_Lurien.png"
+  },
+  {
+    "name": "The Pale King",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/3/32/Pale-King.png"
+  },
+  {
+    "name": "The White Lady",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/5/55/White_Lady_Cut.png/300px-White_Lady_Cut.png"
+  },
+  {
+    "name": "Quirrel",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/e/ee/Quirrel-2.png"
+  },
+  {
+    "name": "Grimm",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/5/5b/B_Grimm.png"
+  },
+  {
+    "name": "Old Stag",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/d/de/Laststag.png/299px-Laststag.png"
+  },
+  {
+    "name": "Lemm",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/ea/Lemm_Desk.png/300px-Lemm_Desk.png"
+  },
+  {
+    "name": "Mister Mushroom",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/f/fc/Mister_Mushroom.png"
+  },
+  {
+    "name": "Lace",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/e/e6/B_Lace.png"
+  },
+  {
+    "name": "Green Prince",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/4/42/Green_Prince.png"
+  },
+  {
+    "name": "Garmond and Zaza",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/3/36/Garmond_%26_Zaza_Idle.png"
+  },
+  {
+    "name": "Shakra",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/c/ce/Shakra_idle.png"
+  },
+  {
+    "name": "Pilby",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/5/5f/Pilby.png"
+  },
+  {
+    "name": "Karmelita",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/7/71/B_Skarrsinger_Karmelita.png/300px-B_Skarrsinger_Karmelita.png"
+  },
+  {
+    "name": "Seth",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/2/25/B_Shrine_Guardian_Seth.png"
+  },
+  {
+    "name": "Eva",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/1/1d/Eva.png/300px-Eva.png"
+  },
+  {
+    "name": "Crust King Khann",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/5/5d/B_Crust_King_Khann.png/300px-B_Crust_King_Khann.png"
+  },
+  {
+    "name": "Moss Druid",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/f/f8/Moss_Druid.png/300px-Moss_Druid.png"
+  },
+  {
+    "name": "Caretaker",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/8/8c/Caretaker.png"
+  },
+  {
+    "name": "Sherma",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/e/e1/Sherma_Idle.png"
+  },
+  {
+    "name": "Widow",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/a/aa/B_Widow.png"
+  },
+  {
+    "name": "Phantom",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Phantom.png"
+  },
+  {
+    "name": "Grand Mother Silk",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/7/7f/B_Grand_Mother_Silk.png/300px-B_Grand_Mother_Silk.png"
+  },
+  {
+    "name": "Fleamaster Mooshka",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/0/08/Fleamaster_Mooshka.png"
+  },
+  {
+    "name": "Kratt",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/5/52/Kratt.png"
+  },
+  {
+    "name": "Vog",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/2/20/Vog.png"
+  },
+  {
+    "name": "Groal the Great",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/0/07/B_Groal_the_Great.png/300px-B_Groal_the_Great.png"
+  },
+  {
+    "name": "Second Sentinel",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/b/be/Second_Sentinel_Idle.png/300px-Second_Sentinel_Idle.png"
+  },
+  {
+    "name": "Forge Daughter",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/7/7f/Forge_Daughter_Idle.png/300px-Forge_Daughter_Idle.png"
+  },
+  {
+    "name": "Twelfth Architect",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/0/0b/Twelfth_Architect.png/300px-Twelfth_Architect.png"
+  },
+  {
+    "name": "First Sinner",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/b/ba/B_First_Sinner.png"
+  },
+  {
+    "name": "Grindle",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/d/db/Grindle_Idle.png"
+  },
+  {
+    "name": "Scrounge",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/2/29/Relic_Seeker_Scrounge.png"
+  },
+  {
+    "name": "Plinney",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/thumb/3/39/Pinmaster_Plinney_Shop.png/300px-Pinmaster_Plinney_Shop.png"
+  },
+  {
+    "name": "Trobbio",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/3/32/B_Trobbio.png"
+  },
+  {
+    "name": "Nuu",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/e/e9/Nuu_Idle.png"
+  },
+  {
+    "name": "Pinstress",
+    "src": "https://cdn.wikimg.net/en/hkwiki/images/3/38/Pinstress_Idle.png"
+  }
 ]
