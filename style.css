@@ -24,6 +24,7 @@ body {
   cursor: pointer;
   user-select: none;
   overflow: hidden;
+  transition: filter 0.2s;
 }
 
 .card img {
